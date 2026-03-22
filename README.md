@@ -77,7 +77,7 @@
 
 🔧 LangChain • Groq • Streamlit  
 
-> Suggests books based on **user mood & personality**. Expanding to **multi-input intelligent recommendations** Focus: AI UX + Prompt Engineering
+> Suggests books based on **user mood & personality**. Expanding to **multi-input intelligent recommendations** very soon.
 
 🚧 *In Progress*
 
