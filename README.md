@@ -113,10 +113,10 @@
 ---
 ## 🧠 CURRENT FOCUS
 
-✨ agentic ai systems  
-⚡ llms + langchain  
-🚀 building real-world applications  
-🧩 learning by building  
+✨ Agentic AI Systems  
+⚡ LLMs + Langchain  
+🚀 Building real-world applications  
+🧩 Learning by Building  
 
 ---
 
